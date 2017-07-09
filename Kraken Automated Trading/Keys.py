@@ -1,3 +1,0 @@
-privateKey = 'YourPrivateKey'
-APIKey = 'yourApiKey'
-
